@@ -9,6 +9,8 @@ dependencies:
   - scipy
   - deap
   - pip
+  - pygmo
   - pip:
       - xfoil
       - pymoo
+
